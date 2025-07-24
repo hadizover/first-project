@@ -20,7 +20,7 @@ body{
     
 }
 .link--cta {
-    font-size: 14px;
+    font-size: 16px;
     color: aquamarine;
     text-align: center;
 }
@@ -30,4 +30,16 @@ body{
 img {
 display: block;
 margin: 10px auto;
+}
+.pragraph{
+color: lightgray;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 21px;
+text-align: center;
+
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
